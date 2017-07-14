@@ -6,7 +6,7 @@ h1 {
   text-align: center;
 }
 
-.top_link {
+#top_link a{
   color: Aquamarine;
   font-size: 16px;
   font-family: Verdana;
